@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-movie-finder-two-gh-pages/static/css/main.03560f3b.css",
+    "main.js": "/react-movie-finder-two-gh-pages/static/js/main.6c2890d8.js",
+    "static/js/787.9f49d5e0.chunk.js": "/react-movie-finder-two-gh-pages/static/js/787.9f49d5e0.chunk.js",
+    "index.html": "/react-movie-finder-two-gh-pages/index.html",
+    "main.03560f3b.css.map": "/react-movie-finder-two-gh-pages/static/css/main.03560f3b.css.map",
+    "main.6c2890d8.js.map": "/react-movie-finder-two-gh-pages/static/js/main.6c2890d8.js.map",
+    "787.9f49d5e0.chunk.js.map": "/react-movie-finder-two-gh-pages/static/js/787.9f49d5e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03560f3b.css",
+    "static/js/main.6c2890d8.js"
+  ]
+}
