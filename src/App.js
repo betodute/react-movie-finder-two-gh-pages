@@ -11,7 +11,7 @@ const NotFound = () => {
 const App = () => {
 
   return (
-  <Router>
+  <Router basename="react-movie-finder-two-gh-pages/">
     <Link to="/">
       <nav>
         <h3 className="main-headline">Movie Finder</h3>
